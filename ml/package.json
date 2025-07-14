@@ -1,0 +1,23 @@
+{
+  "name": "pagy-blocker-ml",
+  "version": "1.0.0",
+  "description": "Machine Learning components for Pagy Blocker ad detection",
+  "main": "ml_data_processor.js",
+  "scripts": {
+    "export": "node export_cli.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["machine-learning", "ad-blocker", "feature-extraction", "data-processing"],
+  "author": "Pagy Team",
+  "license": "MIT",
+  "dependencies": {
+    "readline": "^1.3.0"
+  },
+  "devDependencies": {},
+  "bin": {
+    "pagy-export": "./export_cli.js"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}

@@ -1,0 +1,117 @@
+||doubleclick.net^
+||adsystem.google.com^
+||bat.bing.com^
+||microsoftadvertising.com^
+
+! === Social Media Ads (Nur reine Ad-Domains) ===
+||analytics.tiktok.com^
+||ads.tiktok.com^
+||ads.linkedin.com^
+||ads-twitter.com^
+||analytics.twitter.com^
+||ads.snapchat.com^
+||tr.snapchat.com^
+||ads.pinterest.com^
+||analytics.pinterest.com^
+||ct.pinterest.com^
+
+! === Amazon Advertising (Sicher) ===
+||amazon-adsystem.com^
+||amazonadvertising.com^
+||adsystem.amazon.com^
+
+! === Programmatic DSPs (Reine Ad-Tech) ===
+||adsystem.com^
+||thetradedesk.com^
+||adsystem.net^
+||adnxs.com^
+||ttd.com^
+||contextweb.com^
+||criteo.com^
+||criteo.net^
+||cas.criteo.com^
+||dis.criteo.com^
+||ssp-api.criteo.com^
+
+! === Adobe Advertising ===
+||demdex.net^
+||omtrdc.net^
+||everesttech.net^
+||adsystem.adobe.com^
+||tubemogul.com^
+
+! === DSP Platforms ===
+||adform.net^
+||track.adform.net^
+||ads.adform.net^
+||secure.adform.net^
+||centro.net^
+||basis.net^
+||adsystem.centro.net^
+||smartyads.com^
+||smartyadstechnology.com^
+||ssp.smartyads.com^
+
+! === Analytics (Nur reine Tracking-Services) ===
+||script.hotjar.com^
+||static.hotjar.com^
+||api.mixpanel.com^
+||cdn.mxpnl.com^
+||track.mixpanel.com^
+
+! === Retail Media ===
+||walmart-connect.com^
+||instacartads.com^
+
+! === Video/CTV Advertising ===
+||samsungads.com^
+||samsungacr.com^
+||rokuadvertising.com^
+||advertising.roku.com^
+||ads.hulu.com^
+||advertising.hulu.com^
+
+! === Native Advertising Networks ===
+||trc.taboola.com^
+||cdn.taboola.com^
+||api.taboola.com^
+||widgets.outbrain.com^
+||tr.outbrain.com^
+||amplify.outbrain.com^
+||trends.revcontent.com^
+||cdn.revcontent.com^
+
+! === Mobile Ad Networks ===
+||ironsrc.com^
+||ironbeast.io^
+||unityads.unity3d.com^
+||config.unityads.unity3d.com^
+||auction.unityads.unity3d.com^
+||ads.vungle.com^
+||api.vungle.com^
+
+! === Audio Advertising ===
+||ads.spotify.com^
+||adstudio.spotify.com^
+||ads.pandora.com^
+||advertising.pandora.com^
+
+! === International Ad Networks ===
+||direct.yandex.ru^
+||mc.yandex.ru^
+||metrica.yandex.com^
+||pos.baidu.com^
+||hm.baidu.com^
+||propellerads.com^
+||zeroredirect1.com^
+||onclickads.net^
+||propeller-tracking.com^
+
+! === Cross-Platform Ad Tech ===
+||rubiconproject.com^
+||openx.net^
+||pubmatic.com^
+||adsafeprotected.com^
+||moatads.com^
+||scorecardresearch.com^
+||quantserve.com^
